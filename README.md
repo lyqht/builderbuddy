@@ -17,6 +17,7 @@ Table of Contents
 - A mixed reality app that serves as a proof-of-concept to remotely teach students how to build a gunpla model kit! _(especially given the COVID19 situation...)_
 - A collab project done by [lyqht](https://github.com/lyqht) and [software312](https://github.com/software312) for Mixed Reality Developer Course by [HelloHolo](https://helloholo.sg/)
   - Special thanks to HelloHolo for providing the 3D model assets and technical help in debugging!
+  - We were both later awarded Mixed Reality Developer Course (Merit) certificate.
 
 ## Storyboard
 
